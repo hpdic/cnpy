@@ -1,9 +1,0 @@
-/home/cc/cnpy/build/CMakeFiles/cnpy.dir
-/home/cc/cnpy/build/CMakeFiles/cnpy-static.dir
-/home/cc/cnpy/build/CMakeFiles/example1.dir
-/home/cc/cnpy/build/CMakeFiles/edit_cache.dir
-/home/cc/cnpy/build/CMakeFiles/rebuild_cache.dir
-/home/cc/cnpy/build/CMakeFiles/list_install_components.dir
-/home/cc/cnpy/build/CMakeFiles/install.dir
-/home/cc/cnpy/build/CMakeFiles/install/local.dir
-/home/cc/cnpy/build/CMakeFiles/install/strip.dir
